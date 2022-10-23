@@ -1,0 +1,36 @@
+body{
+  background-color: black;
+	text-align:center;
+	background-color:#61b3de;
+}
+
+.box{
+
+	text-align:left;
+	width:auto;
+	height:auto;
+	
+}
+.wrap {
+        width:730px;
+		margin:30px auto;
+		border: 10px dashed #cecece;
+		border-radius:4px;
+		padding: 20px 5px;
+	}
+h1 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:170%;
+	color:#fff;
+	font-style:italic;
+	text-decoration:none;
+	font-weight:100;
+	padding: 10px;
+	}
+
+canvas{
+
+	position:relative;
+	
+}
+
